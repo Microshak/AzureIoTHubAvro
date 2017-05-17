@@ -1,4 +1,4 @@
-# AzureIoTHubAvro
+# Azure IoT Hub Avro (Proof of concept)
 Example of Moving Data From Device to Azure IotHub using Deflated Avro
 
 ## Components
